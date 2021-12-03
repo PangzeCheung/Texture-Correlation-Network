@@ -28,3 +28,9 @@ python test.py --name TCN_fashion --model TCN --checkpoints_dir ./checkpoints --
 ``` 
 python test.py --name TCN_market --model TCN --checkpoints_dir ./checkpoints --dataset_mode market --dataroot XXXX/Market 
 ``` 
+
+
+## Acknowledgement 
+
+We build our project base on (https://github.com/RenYurui/Global-Flow-Local-Attention & https://github.com/daa233/generative-inpainting-pytorch). Some dataset preprocessing methods are derived from (https://github.com/tengteng95/Pose-Transfer).
+
