@@ -1,5 +1,4 @@
 # TCN
-The source code for our paper "Lightweight Texture Correlation Network for Pose Guided Person Image Generation" (TCSVT2021)
 
 ## Get Start
 
