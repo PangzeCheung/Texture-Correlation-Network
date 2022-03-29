@@ -1,4 +1,4 @@
-# TCN
+# Texture Correlation Network
 The source code for our paper "[Lightweight Texture Correlation Network for Pose Guided Person Image Generation](https://ieeexplore.ieee.org/abstract/document/9631236)“, Pengze Zhang, Lingxiao Yang, Xiaohua Xie and Jianhuang Lai, TCSVT 2021.
 
 
